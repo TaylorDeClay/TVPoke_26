@@ -1,6 +1,6 @@
 from PyUI.Screen import Screen
 from PyUI.PageElements import *
-from TVPoke.helper import getAllPokemonNames
+from helper import getAllPokemonNames
 
 class SelectScreen(Screen):
     def __init__(self, window):
