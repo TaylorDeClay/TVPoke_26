@@ -1,4 +1,4 @@
-from TVPoke.BaseClasses.PokeTypes import Water, Dark
+from TVPoke.BaseClasses.PokeTypes import Water
 from TVPoke.BaseClasses.Move import Move
 
 class Greninja(Water):
